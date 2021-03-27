@@ -2,7 +2,7 @@
 
 ## Overview
 
-For you first pair project on the bootcamp, we want you to make a website all about someone in your group using HTML and CSS.
+For your first pair project on the bootcamp, we want you to make a website all about someone in your group using HTML and CSS.
 
 For example, if you are in group A, pair 1, you will be making a website for someone in group A, pair 2.
 
