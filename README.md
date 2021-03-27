@@ -1,4 +1,4 @@
-# Group Website Project
+# Group Website Challenge
 
 ## Overview
 
