@@ -10,4 +10,4 @@ This is not only a chance for you to practice the core programming languages of 
 
 Although you will each have an individual repository in which to make the website, we still expect you to pair program with your partner on the project. Organise your time so that you can spend an equal amount of time on each project. For example, if you spend three hours coding together on Sunday, you would spend 1.5 hours pair programming on one site, before moving over to the other site.
 
-This project will span the first two weeks of the project, and you will be given time in the live evening sessions to work on it as well.
+This project will span the first two weeks of the bootcamp, and you will be given time in the live evening sessions to work on it as well.
